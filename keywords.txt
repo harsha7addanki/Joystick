@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Joystick	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+GetX    KEYWORD2
+GetY    KEYWORD2
+GetBtn  KEYWORD2
+ChangeXPin  KEYWORD2
+ChangeYPin  KEYWORD2
+ChangeSwPin  KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
