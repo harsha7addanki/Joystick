@@ -4,7 +4,6 @@ Joystick::Joystick(int SW2,int VRx2,int VRy2){
     SW = SW2;
     VRx = VRx2;
     VRy = VRy2;
-    pinMode(SW2, OUTPUT);
 }
 int Joystick::GetX(){
     return analogRead(this.VRx);
