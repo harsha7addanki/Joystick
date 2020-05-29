@@ -16,6 +16,6 @@ class Joystick
         bool Joystick::ChangeXPin(int NewXPin);
         bool Joystick::ChangeYPin(int NewYPin);
         bool Joystick::ChangeSwPin(int NewSwPin);
-}
+};
 
 #endif
