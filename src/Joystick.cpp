@@ -1,9 +1,9 @@
 #include "Joystick.h"
 
 Joystick::Joystick(int SW2,int VRx2,int VRy2){
-    SW = SW2;
-    VRx = VRx2;
-    VRy = VRy2;
+    this->SW = SW2;
+    this->VRx = VRx2;
+    this->VRy = VRy2;
 }
 
 int Joystick::GetX(){
