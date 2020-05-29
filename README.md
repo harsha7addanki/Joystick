@@ -26,13 +26,13 @@ void loop(void){
     Serial.println(y);
     Serial.print("button: ")
     Serial.println(btn);
-    if(myJoystick.ChangeXPin(A2) == false){//ChangeXPin Method Returns False If Value Is Same As Before And Does Not Do Any Thing Else So This Does Not Work
+    if(myJoystick.ChangeXPin(A2) == false){
         Serial.println("ALERT: Value must not be The Same As Before")
     }
-    if(myJoystick.ChangeXPin(A1) == false){//ChangeYPin Method Returns False If Value Is Same As Before And Does Not Do Any Thing Else So This Does Not Work
+    if(myJoystick.ChangeXPin(A1) == false){
         Serial.println("ALERT: Value must not be The Same As Before")
     }
-    if(myJoystick.ChangeSwPin(2) == false){//ChangeXPin Method Returns False If Value Is Same As Before And Does Not Do Any Thing Else So This Does Not Work
+    if(myJoystick.ChangeSwPin(2) == false){
         Serial.println("ALERT: Value must not be The Same As Before")
     }
 }
