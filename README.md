@@ -1,4 +1,4 @@
-# Joystick
+# Joystick library for Arduino
 
 ## Now Joysticks Are Easy
 
