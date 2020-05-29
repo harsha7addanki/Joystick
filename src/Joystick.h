@@ -1,6 +1,7 @@
 #ifndef Joystick_h
 #define Joystick_h
 #include "Arduino.h"
+
 class Joystick
 {
     private:
@@ -16,4 +17,5 @@ class Joystick
         bool Joystick::ChangeYPin(int NewYPin);
         bool Joystick::ChangeSwPin(int NewSwPin);
 }
+
 #endif
