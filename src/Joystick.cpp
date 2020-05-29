@@ -1,4 +1,5 @@
 #include "Joystick.h"
+#include "Arduino.h"
 
 Joystick::Joystick(int SW2,int VRx2,int VRy2){
     this->SW = SW2;
