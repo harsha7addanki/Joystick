@@ -9,10 +9,10 @@ class Joystick
         int VRy;
     public:
         Joystick::Joystick(int SW2,int VRx2,int VRy2);
-        int GetX();
-        int GetY();
-        int GetBtn();
-        bool ChangeXPin(int NewXPin);
-        bool ChangeYPin(int NewYPin);
-        bool ChangeSwPin(int NewSwPin);
+        int Joystick::GetX();
+        int Joystick::GetY();
+        int Joystick::GetBtn();
+        bool Joystick::ChangeXPin(int NewXPin);
+        bool Joystick::ChangeYPin(int NewYPin);
+        bool Joystick::ChangeSwPin(int NewSwPin);
 #endif
