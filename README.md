@@ -41,4 +41,5 @@ void loop(void){
 
 | Version  | Use Class |
 | ---------------------------------------------------------------------- | --------- |
-| [1.0.0](https://github.com/harsha7addanki/Joystick/archive/1.0.1.zip)  | Joystick  |
+| [1.0.0](https://github.com/harsha7addanki/Joystick/archive/1.0.0.zip)  | Joystick  |
+| [1.0.1](https://github.com/harsha7addanki/Joystick/archive/1.0.1.zip)  | Joystick  |
