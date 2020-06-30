@@ -1,7 +1,0 @@
-- name: Setup protoc
-  uses: arduino/setup-protoc@v1.1.0
-  with:
-    # Version to use. Example: 3.9.1
-    version: # optional, default is 3.x
-    # Include github pre-releases in latest version calculation
-    include-pre-releases: # optional, default is false
