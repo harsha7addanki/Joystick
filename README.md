@@ -1,4 +1,5 @@
 # Joystick
+![stats](https://github.com/harsha7addanki/Joystick/workflows/Arduino%20Library%20CI/badge.svg)
 
 ## Now Joysticks Are Easy
 
